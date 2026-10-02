@@ -1,0 +1,74 @@
+name: Build Quiz Taker
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+
+    steps:
+      - name: Get source code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install PyInstaller
+        run: python -m pip install pyinstaller
+
+      - name: Build Windows executable
+        run: python -m PyInstaller --onefile --name QuizTaker quizgen.py
+
+      - name: Copy quizzes
+        shell: pwsh
+        run: Copy-Item -Recurse quizzes dist\quizzes
+
+      - name: Create Windows package
+        shell: pwsh
+        run: Compress-Archive -Path dist\QuizTaker.exe,dist\quizzes -DestinationPath QuizTaker-Windows.zip
+
+      - name: Upload Windows package
+        uses: actions/upload-artifact@v4
+        with:
+          name: QuizTaker-Windows
+          path: QuizTaker-Windows.zip
+
+  build-mac:
+    runs-on: macos-latest
+
+    steps:
+      - name: Get source code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install PyInstaller
+        run: python -m pip install pyinstaller
+
+      - name: Build Mac executable
+        run: python -m PyInstaller --onefile --name QuizTaker quizgen.py
+
+      - name: Copy quizzes
+        run: cp -R quizzes dist/quizzes
+
+      - name: Create Mac package
+        run: |
+          mkdir QuizTaker-Mac
+          cp dist/QuizTaker QuizTaker-Mac/
+          cp -R dist/quizzes QuizTaker-Mac/
+          zip -r QuizTaker-Mac.zip QuizTaker-Mac
+
+      - name: Upload Mac package
+        uses: actions/upload-artifact@v4
+        with:
+          name: QuizTaker-Mac
+          path: QuizTaker-Mac.zip
