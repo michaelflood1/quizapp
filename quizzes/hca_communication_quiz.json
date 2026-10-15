@@ -1,0 +1,708 @@
+{
+  "title": "HCA Communication Study Guide Quiz",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which of the following is a characteristic of competent communication?",
+      "choices": {"a": "Rigidity", "b": "Adaptability", "c": "Avoiding feedback", "d": "Speaking as little as possible"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is NOT a characteristic of competent communication?",
+      "choices": {"a": "Empathy and perspective taking", "b": "Cognitive complexity", "c": "Self monitoring", "d": "Ignoring the needs of others"},
+      "answer": "d"
+    },
+    {
+      "type": "tf",
+      "question": "Self monitoring is a characteristic of competent communication.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Cognitive complexity is a characteristic of competent communication.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Communication competence is best defined as:",
+      "choices": {"a": "The ability to communicate effectively and appropriately", "b": "The ability to speak many languages", "c": "The ability to win every argument", "d": "The ability to avoid conflict at all costs"},
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "In communication competence, 'effectiveness' refers to:",
+      "choices": {"a": "Following social expectations", "b": "Respecting others' feelings", "c": "Achieving your goal", "d": "Using formal language"},
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "In communication competence, 'appropriateness' refers to:",
+      "choices": {"a": "Achieving your goal at any cost", "b": "Following social expectations and respecting others", "c": "Speaking loudly and clearly", "d": "Using medical terminology"},
+      "answer": "b"
+    },
+    {
+      "type": "tf",
+      "question": "Communication competence has two parts: effectiveness and appropriateness.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "A person who achieves their goal but ignores social expectations and disrespects others is being fully competent.",
+      "answer": "false"
+    },
+    {
+      "type": "mc",
+      "question": "What does it mean to say that communication is transactional?",
+      "choices": {"a": "Messages only travel in one direction, from sender to receiver", "b": "It is a two-way process in which people send and receive messages simultaneously and influence each other", "c": "It only occurs in business settings", "d": "It involves exchanging money for information"},
+      "answer": "b"
+    },
+    {
+      "type": "tf",
+      "question": "In transactional communication, people take turns, with one person only sending and the other only receiving.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "In transactional communication, both people influence each other.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "In the communication model, what is 'encoding'?",
+      "choices": {"a": "Interpreting a message you receive", "b": "Turning thoughts into messages", "c": "Providing a response to a message", "d": "Eliminating noise"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "In the communication model, what is 'decoding'?",
+      "choices": {"a": "Turning thoughts into messages", "b": "Choosing a channel to deliver the message", "c": "Interpreting a message", "d": "Blocking out distractions"},
+      "answer": "c"
+    },
+    {
+      "type": "tf",
+      "question": "Meanings exist in the same way for every person, so a message is always understood as the sender intended.",
+      "answer": "false"
+    },
+    {
+      "type": "mc",
+      "question": "In the communication model, the 'channel' is:",
+      "choices": {"a": "The situation or environment", "b": "How the message is delivered, such as speech or writing", "c": "The receiver's response", "d": "Anything that interferes with the message"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "In the communication model, 'feedback' is:",
+      "choices": {"a": "The receiver's response to the message", "b": "The sender's original thought", "c": "Interference that disrupts the message", "d": "The setting where communication takes place"},
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "In the communication model, 'noise' is:",
+      "choices": {"a": "Only loud sounds in the background", "b": "The receiver's response", "c": "Anything that interferes with communication", "d": "The words in the message"},
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "In the communication model, 'context' refers to:",
+      "choices": {"a": "The situation or environment affecting communication", "b": "The words used in the message", "c": "The emotional state of the sender only", "d": "The speed of speech"},
+      "answer": "a"
+    },
+    {
+      "type": "tf",
+      "question": "Noise in the communication model only refers to physical sound.",
+      "answer": "false"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is NOT one of the four needs that effective communication can satisfy?",
+      "choices": {"a": "Physical", "b": "Identity", "c": "Financial", "d": "Social"},
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which need does communication meet when it supports health and survival?",
+      "choices": {"a": "Physical", "b": "Identity", "c": "Social", "d": "Practical"},
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which need does communication meet when it helps us develop our sense of self?",
+      "choices": {"a": "Physical", "b": "Identity", "c": "Social", "d": "Practical"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which need does communication meet when it builds and maintains relationships?",
+      "choices": {"a": "Practical", "b": "Physical", "c": "Identity", "d": "Social"},
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Which need does communication meet when it helps us accomplish tasks and achieve goals?",
+      "choices": {"a": "Identity", "b": "Practical", "c": "Physical", "d": "Social"},
+      "answer": "b"
+    },
+    {
+      "type": "tf",
+      "question": "The four needs effective communication can satisfy are physical, identity, social, and practical.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following best defines 'sex'?",
+      "choices": {"a": "Socially and culturally shaped roles and expressions", "b": "Biological characteristics such as reproductive organs, hormones, and chromosomes", "c": "How a person chooses to dress", "d": "A person's identity within their culture"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following best defines 'gender'?",
+      "choices": {"a": "Chromosomes and hormones", "b": "Reproductive organs", "c": "Socially and culturally shaped roles, behaviours, identities, and expressions", "d": "Purely biological traits present at birth"},
+      "answer": "c"
+    },
+    {
+      "type": "tf",
+      "question": "Gender is defined by biological characteristics such as chromosomes and hormones.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Sex refers to biological characteristics, while gender is socially and culturally shaped.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Culture is best defined as:",
+      "choices": {"a": "A person's individual personality traits", "b": "The shared beliefs, values, customs, traditions, and behaviours of a group", "c": "Only the food and holidays of a country", "d": "A person's level of education"},
+      "answer": "b"
+    },
+    {
+      "type": "tf",
+      "question": "Culture includes shared beliefs, values, customs, traditions, and behaviours of a group.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Which statement best describes cultural safety?",
+      "choices": {"a": "Continuously reflecting on your own biases", "b": "Creating an environment where clients feel respected, safe, and free from discrimination", "c": "Learning every cultural practice by memory", "d": "Treating all clients exactly the same regardless of culture"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which statement best describes cultural humility?",
+      "choices": {"a": "Continuously reflecting on your own biases, recognizing power differences, and learning from others", "b": "Believing you are an expert on other cultures", "c": "Making sure clients feel free from discrimination, and nothing else", "d": "Ignoring cultural differences"},
+      "answer": "a"
+    },
+    {
+      "type": "tf",
+      "question": "Cultural humility involves recognizing power differences and developing mutually respectful partnerships based on mutual trust.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Cultural safety is about continuously reflecting on your own biases, while cultural humility is about making clients feel safe.",
+      "answer": "false"
+    },
+    {
+      "type": "mc",
+      "question": "Which best describes low-context communication?",
+      "choices": {"a": "Messages rely heavily on relationships, shared understanding, and body language", "b": "Messages are direct, explicit, and rely mainly on words", "c": "Messages are communicated mostly through silence", "d": "Messages are only communicated in writing"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which best describes high-context communication?",
+      "choices": {"a": "Messages are direct and explicit", "b": "Messages rely mainly on words alone", "c": "Messages rely more on relationships, shared understanding, body language, and context", "d": "Messages are always formal"},
+      "answer": "c"
+    },
+    {
+      "type": "tf",
+      "question": "In high-context communication, the meaning is mostly found in the explicit words that are spoken.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Low-context communication tends to be direct and explicit.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Cultural competence is best described as:",
+      "choices": {"a": "Memorizing facts about different cultures", "b": "The ability to adapt behaviour toward another in a way that is appropriate to their culture", "c": "Treating everyone in the same way", "d": "Avoiding conversations about culture"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is a way to increase intercultural competence?",
+      "choices": {"a": "Becoming aware of your own biases", "b": "Assuming your own culture's way is the best", "c": "Avoiding people from other cultures", "d": "Waiting for others to adapt to you"},
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is NOT listed as a way to increase intercultural competence?",
+      "choices": {"a": "Having a desire to learn", "b": "Actively developing your skills", "c": "Awareness of your own biases", "d": "Avoiding situations where cultural differences arise"},
+      "answer": "d"
+    },
+    {
+      "type": "tf",
+      "question": "Having a desire to learn is one way to increase intercultural competence.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is a way to show a client you are actively listening?",
+      "choices": {"a": "Checking your phone while they talk", "b": "Interrupting to share your own opinion", "c": "Maintaining appropriate eye contact and facing the client", "d": "Looking away to appear relaxed"},
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following shows active listening?",
+      "choices": {"a": "Paraphrasing and clarifying what the client says", "b": "Finishing the client's sentences", "c": "Crossing your arms and looking at the clock", "d": "Changing the subject quickly"},
+      "answer": "a"
+    },
+    {
+      "type": "tf",
+      "question": "Nodding and using brief verbal responses can show a client you are listening.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Open body language and facing the client are signs of active listening.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Which type of question encourages detailed answers?",
+      "choices": {"a": "Closed-ended", "b": "Open-ended", "c": "Yes/no", "d": "Leading"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is an example of an open-ended question?",
+      "choices": {"a": "Are you feeling pain?", "b": "Did you sleep well?", "c": "How are you feeling today?", "d": "Do you want some water?"},
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is an example of a closed-ended question?",
+      "choices": {"a": "How are you feeling today?", "b": "Are you feeling pain?", "c": "Tell me about your day.", "d": "What worries you most?"},
+      "answer": "b"
+    },
+    {
+      "type": "tf",
+      "question": "Closed-ended questions require a short or specific answer.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "The two types of questioning responses are open-ended and closed-ended questions.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Caring is best defined as:",
+      "choices": {"a": "Making decisions for clients", "b": "Showing concern for another person's well-being", "c": "Always agreeing with the client", "d": "Giving advice whenever possible"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is a way to show care?",
+      "choices": {"a": "Being patient and treating the client with dignity", "b": "Overriding the client's choices for their own good", "c": "Rushing through tasks", "d": "Ignoring requests for help"},
+      "answer": "a"
+    },
+    {
+      "type": "tf",
+      "question": "Respecting a client's choices is one way to show care.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "A client says, 'I am so sick and tired of my body not working the way it used to. I hate having to ask for help all the time.' Which is the best paraphrasing response?",
+      "choices": {"a": "You should be grateful that people help you.", "b": "It sounds like you're frustrated by the changes in your body and having to depend on others for help.", "c": "Everyone gets old, so it's normal.", "d": "Would you like me to call your doctor?"},
+      "answer": "b"
+    },
+    {
+      "type": "tf",
+      "question": "Paraphrasing means restating what the client said in your own words to confirm understanding.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Self-concept is best defined as:",
+      "choices": {"a": "How a person sees and understands themselves", "b": "How others see a person", "c": "How much money a person has", "d": "A person's physical appearance"},
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is a characteristic of self-concept?",
+      "choices": {"a": "Objective", "b": "Subjective", "c": "Unchangeable", "d": "Identical for everyone"},
+      "answer": "b"
+    },
+    {
+      "type": "tf",
+      "question": "Self-concept is subjective, resists change, and is flexible.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Self-concept is completely objective and based only on facts.",
+      "answer": "false"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is a characteristic of someone with positive self-esteem?",
+      "choices": {"a": "Feels confident and values themselves", "b": "Denies all their weaknesses", "c": "Needs constant approval from others", "d": "Avoids new challenges"},
+      "answer": "a"
+    },
+    {
+      "type": "tf",
+      "question": "Someone with positive self-esteem accepts both their strengths and weaknesses.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Which theory suggests that we develop our self-image partly by imagining how others see and judge us?",
+      "choices": {"a": "Social comparison theory", "b": "Looking-glass self", "c": "Transactional theory", "d": "Cultural humility"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which theory suggests that we evaluate ourselves by comparing our abilities, achievements, or traits with others?",
+      "choices": {"a": "Looking-glass self", "b": "Empathy theory", "c": "Social comparison theory", "d": "High-context theory"},
+      "answer": "c"
+    },
+    {
+      "type": "tf",
+      "question": "Looking-glass self and social comparison theory are two theories that explain how we develop self-concept.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is an example of showing warmth as an HCA?",
+      "choices": {"a": "Using a flat, rushed tone of voice", "b": "Smiling and greeting clients in a friendly manner", "c": "Avoiding eye contact", "d": "Only speaking when necessary for tasks"},
+      "answer": "b"
+    },
+    {
+      "type": "tf",
+      "question": "Using a gentle, respectful tone of voice is a way to show warmth.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Showing genuine interest, listening attentively, and offering reassurance are ways to show warmth.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is a guideline for using humour at work?",
+      "choices": {"a": "Joke about the client's condition to lighten the mood", "b": "Continue joking even if the client seems uncomfortable", "c": "Ensure it is appropriate to the situation", "d": "Use any humour you find funny"},
+      "answer": "c"
+    },
+    {
+      "type": "tf",
+      "question": "It is acceptable to use humour that is discriminatory as long as the client laughs.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "An HCA should consider the client's culture, feelings, and sense of humour before using humour.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "An HCA should stop using humour if the client appears uncomfortable.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "It is appropriate to joke about a client's vulnerability if you have built a good relationship.",
+      "answer": "false"
+    },
+    {
+      "type": "mc",
+      "question": "Communication noise is best defined as:",
+      "choices": {"a": "Only loud sounds in the environment", "b": "Any distraction that interferes with accurate transmission or reception of a message", "c": "The tone of the speaker's voice", "d": "A message that is delivered too quietly"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which type of noise includes factors external to the receiver, such as smells and background sounds?",
+      "choices": {"a": "Physiological noise", "b": "Psychological noise", "c": "External noise", "d": "Cultural noise"},
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "A client cannot concentrate on your instructions because they are in pain. What type of noise is this?",
+      "choices": {"a": "External noise", "b": "Physiological noise", "c": "Psychological noise", "d": "Semantic noise"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "A client has decreased vision and cannot read your written instructions. What type of noise is this?",
+      "choices": {"a": "Physiological noise", "b": "External noise", "c": "Psychological noise", "d": "Channel context"},
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "A client is so worried about their test results that they cannot focus on what you are saying. What type of noise is this?",
+      "choices": {"a": "External noise", "b": "Physiological noise", "c": "Psychological noise", "d": "No noise is present"},
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "A client cannot hear you well because another client is being called loudly in the hallway. What type of noise is this?",
+      "choices": {"a": "External noise", "b": "Physiological noise", "c": "Psychological noise", "d": "Emotional noise"},
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is an example of physiological noise?",
+      "choices": {"a": "Background music", "b": "A strong smell in the room", "c": "Needing to use the washroom", "d": "Holding strong beliefs and values"},
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is an example of psychological noise?",
+      "choices": {"a": "Insecurities, emotions, or strong beliefs", "b": "Hearing loss", "c": "Gastrointestinal issues", "d": "Being called by another client"},
+      "answer": "a"
+    },
+    {
+      "type": "tf",
+      "question": "Physiological noise refers to biological factors in the receiver that interfere with accurately receiving a message.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Psychological noise refers to cognitive factors, such as emotions, perceptions, and attitudes, that interfere with receiving a message.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Hearing loss is an example of external noise.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Smells and background noise are examples of external noise.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Active listening means:",
+      "choices": {"a": "Waiting for your turn to speak", "b": "Fully concentrating on, understanding, and responding to a speaker", "c": "Hearing the words without reacting", "d": "Agreeing with everything the speaker says"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is a component of active listening?",
+      "choices": {"a": "Giving the speaker your full attention without interrupting", "b": "Planning your response while the speaker talks", "c": "Avoiding clarifying questions", "d": "Ignoring non-verbal cues"},
+      "answer": "a"
+    },
+    {
+      "type": "tf",
+      "question": "Active listening includes noticing non-verbal cues.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Asking clarifying questions is part of active listening.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Leaning in, facing the speaker, and making eye contact can show active listening.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following can affect how someone receives a message?",
+      "choices": {"a": "Culture and past experiences", "b": "Beliefs, values, and emotions", "c": "Language and personal circumstances", "d": "All of the above"},
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Why can the same message be received differently by different people?",
+      "choices": {"a": "People have different backgrounds, experiences, and perspectives", "b": "Some people are not paying attention", "c": "Messages change on their own over time", "d": "Only the sender controls the meaning"},
+      "answer": "a"
+    },
+    {
+      "type": "tf",
+      "question": "People interpret messages differently because they have different backgrounds, experiences, and perspectives.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "What does it mean that non-verbal communication is 'continuous'?",
+      "choices": {"a": "It only occurs at the start of a conversation", "b": "Body language and facial expressions communicate even when we are not speaking", "c": "It never changes", "d": "It has the same meaning for everyone"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "What does it mean that non-verbal communication is 'ambiguous'?",
+      "choices": {"a": "It is always clear and precise", "b": "It only happens when we are speaking", "c": "The same gesture or expression can have different meanings depending on the person and context", "d": "It can be controlled completely"},
+      "answer": "c"
+    },
+    {
+      "type": "tf",
+      "question": "If you stop talking, you stop communicating non-verbally.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "The same gesture can mean different things to different people, which makes non-verbal communication ambiguous.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Which non-verbal cue may suggest friendliness?",
+      "choices": {"a": "Frowning", "b": "Smiling", "c": "Standing too close", "d": "A harsh tone"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "How can tone of voice influence how a message is received?",
+      "choices": {"a": "A calm tone can reassure, while a harsh tone can sound disrespectful", "b": "Tone has no effect on the message", "c": "A harsh tone always shows confidence", "d": "Only the words matter"},
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "How does distance (personal space) affect communication?",
+      "choices": {"a": "Standing very close always shows caring", "b": "Appropriate personal space shows respect, while standing too close may feel threatening", "c": "Distance has no meaning", "d": "Standing far away always shows respect"},
+      "answer": "b"
+    },
+    {
+      "type": "tf",
+      "question": "Your non-verbal cues should match your words in order to communicate trust and care.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "What is the empathy formula?",
+      "choices": {"a": "Give advice + reassure the person", "b": "Acknowledge the person's feelings + identify the reason for those feelings", "c": "Share a similar story + offer a solution", "d": "Ask a closed question + wait for an answer"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is an example of the empathy formula?",
+      "choices": {"a": "Don't worry, it'll be fine.", "b": "You sound frustrated because you need more help than before.", "c": "I know exactly how you feel.", "d": "Why are you so upset?"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which response uses the empathy formula?",
+      "choices": {"a": "You seem sad because you miss being able to do things independently.", "b": "You seem sad.", "c": "You should not be sad about this.", "d": "Everyone feels sad sometimes."},
+      "answer": "a"
+    },
+    {
+      "type": "tf",
+      "question": "An empathy statement acknowledges the feeling but does not need to name the reason for it.",
+      "answer": "false"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is NOT one of the three dimensions of empathy?",
+      "choices": {"a": "Perspective taking", "b": "Emotional contagion", "c": "Genuine concern", "d": "Self-disclosure"},
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Which dimension of empathy involves becoming open-minded and imaginative to understand another's view and suspending your own beliefs?",
+      "choices": {"a": "Perspective taking", "b": "Emotional contagion", "c": "Genuine concern", "d": "Active listening"},
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which dimension of empathy involves reflecting emotions and feelings back upon the person?",
+      "choices": {"a": "Perspective taking", "b": "Genuine concern", "c": "Emotional contagion", "d": "Cognitive complexity"},
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which dimension of empathy is used with intent and is about acceptance and understanding of the person's feelings?",
+      "choices": {"a": "Emotional contagion", "b": "Perspective taking", "c": "Social comparison", "d": "Genuine concern"},
+      "answer": "d"
+    },
+    {
+      "type": "tf",
+      "question": "Reflecting emotions back to a person can increase their feeling of connectedness and demonstrate acceptance.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Hearing a reflection of your own words and feelings can increase self awareness and esteem.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Perspective taking requires you to keep your own beliefs and views at the forefront.",
+      "answer": "false"
+    },
+    {
+      "type": "mc",
+      "question": "Which best defines 'beliefs'?",
+      "choices": {"a": "Things we consider important", "b": "Things we think are true", "c": "The way we express ourselves in thoughts, words, and actions", "d": "Rules set by an employer"},
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which best defines 'values'?",
+      "choices": {"a": "Things we think are true", "b": "The way we act in public", "c": "Things we consider important", "d": "Facts that can be proven"},
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which best defines 'attitudes'?",
+      "choices": {"a": "The way we express ourselves in thoughts, words, and actions", "b": "Things we think are true", "c": "Things we consider important", "d": "Our biological characteristics"},
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "'Honesty matters to me' is an example of a:",
+      "choices": {"a": "Belief", "b": "Attitude", "c": "Value", "d": "Noise"},
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "'I believe I can learn new skills' is an example of a:",
+      "choices": {"a": "Belief", "b": "Value", "c": "Attitude", "d": "Feedback"},
+      "answer": "a"
+    },
+    {
+      "type": "tf",
+      "question": "Beliefs, values, and attitudes shape how we view ourselves, judge our actions, and decide what kind of person we are.",
+      "answer": "true"
+    },
+    {
+      "type": "mc",
+      "question": "Self-disclosure is best defined as:",
+      "choices": {"a": "Sharing personal information or experiences about yourself with another person", "b": "Asking a client personal questions", "c": "Reflecting a client's feelings back to them", "d": "Revealing a client's private information to colleagues"},
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following should an HCA consider before using self-disclosure with a client?",
+      "choices": {"a": "Whether it will benefit the client", "b": "Whether it relates to the client's situation", "c": "Whether it will shift attention away from the client to the HCA", "d": "All of the above"},
+      "answer": "d"
+    },
+    {
+      "type": "tf",
+      "question": "Before self-disclosing, an HCA should ask whether it will benefit the client.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "It is appropriate to share unnecessary personal or confidential information with a client to build rapport.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Self-disclosure should be relevant to the client's situation and remain professional and appropriate.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "An HCA's self-disclosure should shift the focus of the conversation onto the HCA.",
+      "answer": "false"
+    }
+  ]
+}
